@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://joohithagu.urbanism.nl/sitemap.xml
